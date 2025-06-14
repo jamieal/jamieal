@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey, I’m Jamie — a macOS Endpoint Engineer
 
-<!--
-**jamieal/jamieal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m passionate about automation, scripting, and building elegant tools that make life easier.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🛠 **Endpoint Engineer** specializing in Apple device management  
+- 💡 Currently building a macOS setup engine to streamline provisioning and personalization  
+- 👨‍💻 Skills: `Bash`, `Jamf`, `HTML`, `CSS`, `JavaScript`, and more  
+- 📦 I love automating workflows, optimizing system management, and exploring new tech  
+- ☕ Coffee lover. Lifelong learner. Tech explorer.
+
+---
+
+## 🌟 Featured Project
+
+[**Ryddle**](https://ryddle.io/)  
+A solution designed to simplify and supercharge macOS setups.
+
+---
+
+## 🛠 Top Skills & Tools
+
+- **Apple Fleet Management:** Jamf Pro, scripting, automation
+- **Scripting Languages:** Bash, Shell
+- **Web Tools:** HTML, CSS, JavaScript
+- **System Workflows:** Automation, provisioning, endpoint security
+
+---
+
+## 📫 Let’s Connect
+
+<!-- Add your social links here, e.g.: -->
+<!-- [LinkedIn](https://linkedin.com/in/yourprofile) • [Twitter](https://twitter.com/yourhandle) • [Website](https://yourwebsite.com) -->
+
+---
+
+> “Always building, always learning — one script at a time.”
