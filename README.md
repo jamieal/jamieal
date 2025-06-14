@@ -34,7 +34,7 @@ A solution designed to simplify and supercharge macOS setups.
 
 ## 📫 Let’s Connect
 
-[jamiecras.com]([url](https://jamiecras.com/))
+[jamiecras.com](https://jamiecras.com/)
 
 ---
 
