@@ -28,6 +28,8 @@ A solution designed to simplify and supercharge macOS setups.
 - **Web Tools:** HTML, CSS, JavaScript
 - **System Workflows:** Automation, provisioning, endpoint security
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamieal&layout=compact&theme=dark)
+
 ---
 
 ## 📫 Let’s Connect
