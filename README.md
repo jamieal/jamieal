@@ -34,8 +34,7 @@ A solution designed to simplify and supercharge macOS setups.
 
 ## 📫 Let’s Connect
 
-<!-- Add your social links here, e.g.: -->
-<!-- [LinkedIn](https://linkedin.com/in/yourprofile) • [Twitter](https://twitter.com/yourhandle) • [Website](https://yourwebsite.com) -->
+[jamiecras.com]([url](https://jamiecras.com/))
 
 ---
 
